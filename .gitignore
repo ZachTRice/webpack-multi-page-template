@@ -1,0 +1,23 @@
+/dist
+/node_modules
+python
+.python/
+.node-virtualenv/
+.ropeproject/
+*.pyc
+.project
+.settings
+.pydevproject
+.DS_Store
+bitly_config.py*
+tools
+*~
+*.swp
+\#*
+npm-debug.log
+.vagrant
+# Nightwatch stuff
+reports
+selenium-debug.log
+*.jar
+local.log
